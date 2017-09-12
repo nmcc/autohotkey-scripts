@@ -1,2 +1,5 @@
 # Visual Studio Code
 ./vs
+
+# Ignore executables produced by compiling scripts
+**/*.exe
